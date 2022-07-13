@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm Zach Rutman
+
+#### I'm a member of [FRC Team 1540](https://github.com/flamingchickens1540)
+- I worked on our [2022 robot](https://github.com/flamingchickens1540/toothless) and [one of our 2021 Bunnybots](https://github.com/flamingchickens1540/bunnybots-cornchip-2021)
 
 <!--
 **rutmanz/rutmanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
